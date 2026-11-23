@@ -1,0 +1,131 @@
+location_name,location_id,LMIC,LMIC_group,iso3,region_name,super_region_name
+Philippines,16,1,Upper middle income,PHL,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+China,6,1,Upper middle income,CHN,East Asia,"Southeast Asia, East Asia, and Oceania"
+Democratic People's Republic of Korea,7,1,Low income,PRK,East Asia,"Southeast Asia, East Asia, and Oceania"
+Nepal,164,1,Lower middle income,NPL,South Asia,South Asia
+Kiribati,23,1,Lower middle income,KIR,Oceania,"Southeast Asia, East Asia, and Oceania"
+Argentina,97,1,Upper middle income,ARG,Southern Latin America,High-income
+Papua New Guinea,26,1,Lower middle income,PNG,Oceania,"Southeast Asia, East Asia, and Oceania"
+Myanmar,15,1,Lower middle income,MMR,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Mali,211,1,Low income,MLI,Western Sub-Saharan Africa,Sub-Saharan Africa
+Micronesia (Federated States of),25,1,Upper middle income,FSM,Oceania,"Southeast Asia, East Asia, and Oceania"
+Republic of Moldova,61,1,Upper middle income,MDA,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Bolivia (Plurinational State of),121,1,Lower middle income,BOL,Andean Latin America,Latin America and Caribbean
+Djibouti,177,1,Lower middle income,DJI,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Syrian Arab Republic,153,1,Low income,SYR,North Africa and Middle East,North Africa and Middle East
+Egypt,141,1,Lower middle income,EGY,North Africa and Middle East,North Africa and Middle East
+Lao People's Democratic Republic,12,1,Lower middle income,LAO,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Mexico,130,1,Upper middle income,MEX,Central Latin America,Latin America and Caribbean
+United Republic of Tanzania,189,1,Lower middle income,TZA,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Belize,108,1,Upper middle income,BLZ,Caribbean,Latin America and Caribbean
+Solomon Islands,28,1,Lower middle income,SLB,Oceania,"Southeast Asia, East Asia, and Oceania"
+Albania,43,1,Upper middle income,ALB,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Bangladesh,161,1,Lower middle income,BGD,South Asia,South Asia
+Brazil,135,1,Upper middle income,BRA,Tropical Latin America,Latin America and Caribbean
+Benin,200,1,Lower middle income,BEN,Western Sub-Saharan Africa,Sub-Saharan Africa
+Iran (Islamic Republic of),142,1,Upper middle income,IRN,North Africa and Middle East,North Africa and Middle East
+Ecuador,122,1,Upper middle income,ECU,Andean Latin America,Latin America and Caribbean
+Bosnia and Herzegovina,44,1,Upper middle income,BIH,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Iraq,143,1,Upper middle income,IRQ,North Africa and Middle East,North Africa and Middle East
+Nicaragua,131,1,Lower middle income,NIC,Central Latin America,Latin America and Caribbean
+Azerbaijan,34,1,Upper middle income,AZE,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Montenegro,50,1,Upper middle income,MNE,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Comoros,176,1,Lower middle income,COM,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Ukraine,63,1,Upper middle income,UKR,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Zambia,191,1,Lower middle income,ZMB,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Mongolia,38,1,Upper middle income,MNG,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Burkina Faso,201,1,Low income,BFA,Western Sub-Saharan Africa,Sub-Saharan Africa
+Tajikistan,39,1,Lower middle income,TJK,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+South Sudan,435,1,Low income,SSD,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Eritrea,178,1,Low income,ERI,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Sri Lanka,17,1,Upper middle income,LKA,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Türkiye,155,1,Upper middle income,TUR,North Africa and Middle East,North Africa and Middle East
+Suriname,118,1,Upper middle income,SUR,Caribbean,Latin America and Caribbean
+Samoa,27,1,Upper middle income,WSM,Oceania,"Southeast Asia, East Asia, and Oceania"
+North Macedonia,49,1,Upper middle income,MKD,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Cameroon,202,1,Lower middle income,CMR,Western Sub-Saharan Africa,Sub-Saharan Africa
+Venezuela (Bolivarian Republic of),133,1,Lower middle income,VEN,Central Latin America,Latin America and Caribbean
+Dominica,110,1,Upper middle income,DMA,Caribbean,Latin America and Caribbean
+Central African Republic,169,1,Low income,CAF,Central Sub-Saharan Africa,Sub-Saharan Africa
+Maldives,14,1,Upper middle income,MDV,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Angola,168,1,Lower middle income,AGO,Central Sub-Saharan Africa,Sub-Saharan Africa
+Malaysia,13,1,Upper middle income,MYS,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Mauritania,212,1,Lower middle income,MRT,Western Sub-Saharan Africa,Sub-Saharan Africa
+Uganda,190,1,Low income,UGA,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Ethiopia,179,1,Low income,ETH,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Jordan,144,1,Upper middle income,JOR,North Africa and Middle East,North Africa and Middle East
+Peru,123,1,Upper middle income,PER,Andean Latin America,Latin America and Caribbean
+Cuba,109,1,Upper middle income,CUB,Caribbean,Latin America and Caribbean
+Nigeria,214,1,Lower middle income,NGA,Western Sub-Saharan Africa,Sub-Saharan Africa
+Tonga,29,1,Upper middle income,TON,Oceania,"Southeast Asia, East Asia, and Oceania"
+Tuvalu,416,1,Upper middle income,TUV,Oceania,"Southeast Asia, East Asia, and Oceania"
+Turkmenistan,40,1,Upper middle income,TKM,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Botswana,193,1,Upper middle income,BWA,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Grenada,112,1,Upper middle income,GRD,Caribbean,Latin America and Caribbean
+Afghanistan,160,1,Low income,AFG,North Africa and Middle East,North Africa and Middle East
+Armenia,33,1,Upper middle income,ARM,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Togo,218,1,Lower middle income,TGO,Western Sub-Saharan Africa,Sub-Saharan Africa
+Uzbekistan,41,1,Lower middle income,UZB,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Fiji,22,1,Upper middle income,FJI,Oceania,"Southeast Asia, East Asia, and Oceania"
+Haiti,114,1,Lower middle income,HTI,Caribbean,Latin America and Caribbean
+Georgia,35,1,Upper middle income,GEO,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Zimbabwe,198,1,Lower middle income,ZWE,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Gabon,173,1,Upper middle income,GAB,Central Sub-Saharan Africa,Sub-Saharan Africa
+Belarus,57,1,Upper middle income,BLR,Eastern Europe,"Central Europe, Eastern Europe, and Central Asia"
+Mozambique,184,1,Low income,MOZ,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Bhutan,162,1,Lower middle income,BTN,South Asia,South Asia
+Kenya,180,1,Lower middle income,KEN,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Burundi,175,1,Low income,BDI,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Serbia,53,1,Upper middle income,SRB,Central Europe,"Central Europe, Eastern Europe, and Central Asia"
+Democratic Republic of the Congo,171,1,Low income,COD,Central Sub-Saharan Africa,Sub-Saharan Africa
+Guinea-Bissau,209,1,Low income,GNB,Western Sub-Saharan Africa,Sub-Saharan Africa
+Pakistan,165,1,Lower middle income,PAK,South Asia,South Asia
+Palestine,149,1,Lower middle income,PSE,North Africa and Middle East,North Africa and Middle East
+Guinea,208,1,Lower middle income,GIN,Western Sub-Saharan Africa,Sub-Saharan Africa
+Marshall Islands,24,1,Upper middle income,MHL,Oceania,"Southeast Asia, East Asia, and Oceania"
+Jamaica,115,1,Upper middle income,JAM,Caribbean,Latin America and Caribbean
+Algeria,139,1,Upper middle income,DZA,North Africa and Middle East,North Africa and Middle East
+Congo,170,1,Lower middle income,COG,Central Sub-Saharan Africa,Sub-Saharan Africa
+Somalia,187,1,Low income,SOM,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Liberia,210,1,Low income,LBR,Western Sub-Saharan Africa,Sub-Saharan Africa
+Madagascar,181,1,Low income,MDG,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Saint Vincent and the Grenadines,117,1,Upper middle income,VCT,Caribbean,Latin America and Caribbean
+Guatemala,128,1,Upper middle income,GTM,Central Latin America,Latin America and Caribbean
+Cabo Verde,203,1,Upper middle income,CPV,Western Sub-Saharan Africa,Sub-Saharan Africa
+Chad,204,1,Low income,TCD,Western Sub-Saharan Africa,Sub-Saharan Africa
+Lesotho,194,1,Lower middle income,LSO,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Paraguay,136,1,Upper middle income,PRY,Tropical Latin America,Latin America and Caribbean
+Niger,213,1,Low income,NER,Western Sub-Saharan Africa,Sub-Saharan Africa
+Indonesia,11,1,Upper middle income,IDN,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Dominican Republic,111,1,Upper middle income,DOM,Caribbean,Latin America and Caribbean
+Tunisia,154,1,Lower middle income,TUN,North Africa and Middle East,North Africa and Middle East
+Thailand,18,1,Upper middle income,THA,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Sudan,522,1,Low income,SDN,North Africa and Middle East,North Africa and Middle East
+Mauritius,183,1,Upper middle income,MUS,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Sao Tome and Principe,215,1,Lower middle income,STP,Western Sub-Saharan Africa,Sub-Saharan Africa
+Malawi,182,1,Low income,MWI,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Equatorial Guinea,172,1,Upper middle income,GNQ,Central Sub-Saharan Africa,Sub-Saharan Africa
+Yemen,157,1,Low income,YEM,North Africa and Middle East,North Africa and Middle East
+Kazakhstan,36,1,Upper middle income,KAZ,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
+Gambia,206,1,Low income,GMB,Western Sub-Saharan Africa,Sub-Saharan Africa
+Colombia,125,1,Upper middle income,COL,Central Latin America,Latin America and Caribbean
+Rwanda,185,1,Low income,RWA,Eastern Sub-Saharan Africa,Sub-Saharan Africa
+Saint Lucia,116,1,Upper middle income,LCA,Caribbean,Latin America and Caribbean
+Timor-Leste,19,1,Lower middle income,TLS,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Honduras,129,1,Lower middle income,HND,Central Latin America,Latin America and Caribbean
+Lebanon,146,1,Lower middle income,LBN,North Africa and Middle East,North Africa and Middle East
+El Salvador,127,1,Upper middle income,SLV,Central Latin America,Latin America and Caribbean
+Viet Nam,20,1,Upper middle income,VNM,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Namibia,195,1,Lower middle income,NAM,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Libya,147,1,Upper middle income,LBY,North Africa and Middle East,North Africa and Middle East
+Sierra Leone,217,1,Low income,SLE,Western Sub-Saharan Africa,Sub-Saharan Africa
+Cambodia,10,1,Lower middle income,KHM,Southeast Asia,"Southeast Asia, East Asia, and Oceania"
+Vanuatu,30,1,Lower middle income,VUT,Oceania,"Southeast Asia, East Asia, and Oceania"
+Eswatini,197,1,Lower middle income,SWZ,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Senegal,216,1,Lower middle income,SEN,Western Sub-Saharan Africa,Sub-Saharan Africa
+India,163,1,Lower middle income,IND,South Asia,South Asia
+Côte d'Ivoire,205,1,Lower middle income,CIV,Western Sub-Saharan Africa,Sub-Saharan Africa
+Morocco,148,1,Lower middle income,MAR,North Africa and Middle East,North Africa and Middle East
+Ghana,207,1,Lower middle income,GHA,Western Sub-Saharan Africa,Sub-Saharan Africa
+South Africa,196,1,Upper middle income,ZAF,Southern Sub-Saharan Africa,Sub-Saharan Africa
+Kyrgyzstan,37,1,Lower middle income,KGZ,Central Asia,"Central Europe, Eastern Europe, and Central Asia"
