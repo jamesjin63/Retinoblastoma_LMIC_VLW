@@ -1,0 +1,13 @@
+﻿Input,Source,File
+"GBD 2023 retinoblastoma (cause 1009), 6 measures, <5 and 5–9 y, 130 LMICs, 1990–2023","GBD Results Tool, version 8352 (R1); including DALYs from the same release",data/R1
+"Population <5, 5–9",GBD population (POP batch); 0 country-year-age cells derived as Number/Rate,data/POP
+Global and regional GBD aggregates,GBD Results Tool (R2),data/R2
+"GNI per capita PPP (current), US GDP deflator","World Bank WDI (NY.GNP.PCAP.PP.CD, NY.GDP.DEFL.ZS)","reference/wdi_gni_ppp_current.csv, wdi_us_deflator.csv"
+"GDP per capita (PPP, US$), total population",World Bank WDI,reference/wdi_macro_long_1990_2023.csv
+"Median age, life table e(x)",UN WPP 2024,"reference/wpp_median_age.csv, wpp_life_table_both_ex.csv.gz"
+Standard-population weights,GBD 2023 (reconstructed),reference/age_weights_gbd2023_reconstructed.csv
+Health opportunity cost thresholds,Pichon-Riviere 2023; Ochalek 2018,reference/k_threshold_130.csv
+Registry incidence,"IICC-3 (International Incidence of Childhood Cancer, vol. 3), retinoblastoma table",data/05-retinoblastoma.csv
+Previous estimate,"Previous childhood cancer valuation, Table 10 (0–19 y)",data/Table_10_Retinoblastoma.csv
+Published cost studies,Published study abstracts and full texts,reference/lit_rb_cost.csv
+Map,df_world2.geojson (China boundary corrected),data/df_world2.geojson

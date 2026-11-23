@@ -1,0 +1,131 @@
+﻿iso3,Country,In monetary set,GNI 2023 source,Years observed,Years imputed
+CHN,China,True,observed,34,0
+PRK,Democratic People's Republic of Korea,False,missing,0,0
+KHM,Cambodia,True,observed,34,0
+IDN,Indonesia,True,observed,34,0
+LAO,Lao People's Democratic Republic,True,observed,34,0
+MYS,Malaysia,True,observed,34,0
+MDV,Maldives,True,observed,34,0
+MMR,Myanmar,True,observed,34,0
+PHL,Philippines,True,observed,34,0
+LKA,Sri Lanka,True,observed,34,0
+THA,Thailand,True,observed,34,0
+TLS,Timor-Leste,True,observed,34,0
+VNM,Viet Nam,True,observed,34,0
+FJI,Fiji,True,observed,34,0
+KIR,Kiribati,True,observed,34,0
+MHL,Marshall Islands,True,observed,34,0
+FSM,Micronesia (Federated States of),True,observed,34,0
+PNG,Papua New Guinea,True,observed,34,0
+WSM,Samoa,True,observed,34,0
+SLB,Solomon Islands,True,observed,34,0
+TON,Tonga,True,observed,34,0
+VUT,Vanuatu,True,observed,34,0
+ARM,Armenia,True,observed,34,0
+AZE,Azerbaijan,True,observed,34,0
+GEO,Georgia,True,observed,34,0
+KAZ,Kazakhstan,True,observed,31,3
+KGZ,Kyrgyzstan,True,observed,33,1
+MNG,Mongolia,True,observed,34,0
+TJK,Tajikistan,True,observed,34,0
+TKM,Turkmenistan,True,observed,34,0
+UZB,Uzbekistan,True,observed,34,0
+ALB,Albania,True,observed,34,0
+BIH,Bosnia and Herzegovina,True,observed,34,0
+MKD,North Macedonia,True,observed,34,0
+MNE,Montenegro,True,observed,27,7
+SRB,Serbia,True,observed,27,7
+BLR,Belarus,True,observed,34,0
+MDA,Republic of Moldova,True,observed,34,0
+UKR,Ukraine,True,observed,34,0
+ARG,Argentina,True,observed,34,0
+BLZ,Belize,True,observed,34,0
+CUB,Cuba,False,missing,0,0
+DMA,Dominica,True,observed,34,0
+DOM,Dominican Republic,True,observed,34,0
+GRD,Grenada,True,observed,34,0
+HTI,Haiti,True,observed,34,0
+JAM,Jamaica,True,observed,34,0
+LCA,Saint Lucia,True,observed,34,0
+VCT,Saint Vincent and the Grenadines,True,observed,34,0
+SUR,Suriname,True,observed,34,0
+BOL,Bolivia (Plurinational State of),True,observed,34,0
+ECU,Ecuador,True,observed,34,0
+PER,Peru,True,observed,34,0
+COL,Colombia,True,observed,34,0
+SLV,El Salvador,True,observed,34,0
+GTM,Guatemala,True,observed,34,0
+HND,Honduras,True,observed,34,0
+MEX,Mexico,True,observed,34,0
+NIC,Nicaragua,True,observed,34,0
+VEN,Venezuela (Bolivarian Republic of),False,missing,22,0
+BRA,Brazil,True,observed,34,0
+PRY,Paraguay,True,observed,34,0
+DZA,Algeria,True,observed,34,0
+EGY,Egypt,True,observed,34,0
+IRN,Iran (Islamic Republic of),True,observed,34,0
+IRQ,Iraq,True,observed,29,5
+JOR,Jordan,True,observed,34,0
+LBN,Lebanon,True,observed,34,0
+LBY,Libya,True,observed,34,0
+MAR,Morocco,True,observed,34,0
+PSE,Palestine,True,observed,30,4
+SYR,Syrian Arab Republic,True,carried forward 1 year,6,28
+TUN,Tunisia,True,observed,34,0
+TUR,Türkiye,True,observed,34,0
+YEM,Yemen,False,missing,24,0
+AFG,Afghanistan,True,observed,24,10
+BGD,Bangladesh,True,observed,34,0
+BTN,Bhutan,True,observed,34,0
+IND,India,True,observed,34,0
+NPL,Nepal,True,observed,34,0
+PAK,Pakistan,True,observed,34,0
+AGO,Angola,True,observed,34,0
+CAF,Central African Republic,True,observed,34,0
+COG,Congo,True,observed,34,0
+COD,Democratic Republic of the Congo,True,observed,34,0
+GNQ,Equatorial Guinea,True,observed,34,0
+GAB,Gabon,True,observed,34,0
+BDI,Burundi,True,observed,34,0
+COM,Comoros,True,observed,34,0
+DJI,Djibouti,True,observed,11,23
+ERI,Eritrea,False,missing,20,2
+ETH,Ethiopia,True,observed,34,0
+KEN,Kenya,True,observed,34,0
+MDG,Madagascar,True,observed,34,0
+MWI,Malawi,True,observed,34,0
+MUS,Mauritius,True,observed,34,0
+MOZ,Mozambique,True,observed,33,1
+RWA,Rwanda,True,observed,34,0
+SOM,Somalia,True,observed,34,0
+TZA,United Republic of Tanzania,True,observed,34,0
+UGA,Uganda,True,observed,34,0
+ZMB,Zambia,True,observed,34,0
+BWA,Botswana,True,observed,34,0
+LSO,Lesotho,True,observed,34,0
+NAM,Namibia,True,observed,34,0
+ZAF,South Africa,True,observed,34,0
+SWZ,Eswatini,True,observed,34,0
+ZWE,Zimbabwe,True,observed,34,0
+BEN,Benin,True,observed,34,0
+BFA,Burkina Faso,True,observed,34,0
+CMR,Cameroon,True,observed,34,0
+CPV,Cabo Verde,True,observed,34,0
+TCD,Chad,True,observed,34,0
+CIV,Côte d'Ivoire,True,observed,34,0
+GMB,Gambia,True,observed,34,0
+GHA,Ghana,True,observed,34,0
+GIN,Guinea,True,observed,34,0
+GNB,Guinea-Bissau,True,observed,34,0
+LBR,Liberia,True,observed,34,0
+MLI,Mali,True,observed,34,0
+MRT,Mauritania,True,observed,34,0
+NER,Niger,True,observed,34,0
+NGA,Nigeria,True,observed,16,18
+STP,Sao Tome and Principe,True,observed,34,0
+SEN,Senegal,True,observed,34,0
+SLE,Sierra Leone,True,observed,34,0
+TGO,Togo,True,observed,34,0
+TUV,Tuvalu,True,observed,34,0
+SSD,South Sudan,False,missing,5,21
+SDN,Sudan,True,observed,34,0

@@ -1,0 +1,5 @@
+﻿Step,Countries,"VLW, US$ million","Change from previous step, US$ million"
+Previous estimate in I$ (0–19 y; VSL/(HALE/2); income elasticity 1.0; undiscounted),121,10594.1632,
+Convert to 2023 US$ with each country's price-level ratio,121,3411.3093811912127,-7182.853818808788
+Replace HALE/2 by e(median age),121,2110.879826534309,-1300.4295546569037
+"Replace previous VSL by this study's VSL (GNI-based, elasticity 1.5)",121,787.8775544666061,-1323.002272067703
